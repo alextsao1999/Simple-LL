@@ -1,0 +1,4 @@
+ToolSet: w64 8.0 (local)@I:\vcpkg\downloads\tools\msys2\msys64\mingw64
+Options: 
+
+Options:
