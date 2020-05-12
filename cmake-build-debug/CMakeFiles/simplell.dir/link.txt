@@ -1,2 +1,0 @@
-I:\vcpkg\downloads\tools\msys2\msys64\mingw64\bin\ar.exe qc libsimplell.a  CMakeFiles/simplell.dir/src/GrammerParser.cpp.obj CMakeFiles/simplell.dir/src/JsonWalker.cpp.obj CMakeFiles/simplell.dir/src/Lexer.cpp.obj CMakeFiles/simplell.dir/src/ParserBuilder.cpp.obj
-I:\vcpkg\downloads\tools\msys2\msys64\mingw64\bin\ranlib.exe libsimplell.a
